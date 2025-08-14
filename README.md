@@ -43,3 +43,8 @@ Applied time-series forecasting techniques in a real-world financial context.
 Understood trade-offs between simple and deep learning models.
 
 Gained experience in feature engineering and model optimization.
+
+
+🔗 Try It Here
+https://colab.research.google.com/drive/1N9uvc26FciUU5KfbwN8V541O-vDPIOHr
+
